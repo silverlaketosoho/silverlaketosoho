@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>http://www.facebook.com/dialog/friends?id=rajanvaish&amp;app_id=123050457758183&amp;redirect_uri=http://www.example.com/response/</string>
+</dict>
+</plist>
